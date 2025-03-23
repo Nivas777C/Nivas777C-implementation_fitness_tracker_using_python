@@ -11,7 +11,7 @@ A simple and efficient **Fitness Tracker** built using Python to help you log an
 
 ## 🛠 Technologies Used  
 - 🐍 Python  
-- 📂 CSV / SQLite for data storage  
+- 📂 CSV  for data storage  
 - 📊 Matplotlib for progress visualization
   
 🚀 Stay Fit, Stay Motivated! 💪
